@@ -32,6 +32,7 @@ public class exe04 {
 			System.out.println(numero + " é impar e o quadrado dele é: " + quadrado);
 		}
 		
+		leia.close();		
 	}
 
 }
