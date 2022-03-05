@@ -1,6 +1,6 @@
 //Faça um programa que entre com três números e coloque em ordem crescente.
 
-package br.generation.exercicos02;
+package br.generation.exercicios02;
 
 import java.util.Scanner;
 

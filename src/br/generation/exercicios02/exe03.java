@@ -4,7 +4,7 @@ categoria ela se encontra:
  15-17 juvenil
  18-25 adulto */
 
-package br.generation.exercicos02;
+package br.generation.exercicios02;
 
 import java.util.Scanner;
 
